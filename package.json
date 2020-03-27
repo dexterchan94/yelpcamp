@@ -1,0 +1,25 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexterchan94/yelpcamp.git"
+  },
+  "author": "Dexter Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexterchan94/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/dexterchan94/yelpcamp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
